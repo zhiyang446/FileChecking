@@ -1,0 +1,17 @@
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Kebidanan, Total = 6598, Max = 1110, Min = 1110
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Penjagaan Rapi, Total = 771, Max = 147, Min = 147
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Perawatan Perioperatif, Total = 802, Max = 160, Min = 160
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Kesihatan Kardiovascular, Total = 719, Max = 136, Min = 136
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Perawatan Onkologi, Total = 260, Max = 54, Min = 54
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Perawatan Gerontologi, Total = 158, Max = 25, Min = 25
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Sitologi, Total = 58, Max = 24, Min = 24
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Transfusi Darah, Total = 38, Max = 0, Min = 0
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Histopatologi, Total = 14, Max = 0, Min = 0
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Pengimejan Perubatan (Payudara), Total = 50, Max = 0, Min = 0
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Haematologi, Total = 70, Max = 27, Min = 27
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Penjagaan Paliatif, Total = 108, Max = 17, Min = 17
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Perawatan Kesihatan Mental, Total = 482, Max = 77, Min = 77
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Penjagaan Kecemasan, Total = 2422, Max = 526, Min = 526
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Pengurusan Penjagaan Kesihatan, Total = 119, Max = 39, Min = 39
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Penjagaan Respiratori, Total = 59, Max = 0, Min = 0
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Rehabilitasi Neuro, Total = 30, Max = 0, Min = 0
